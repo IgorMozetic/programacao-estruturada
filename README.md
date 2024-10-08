@@ -1,3 +1,3 @@
-#PROGRAMACAO ESTRUTURADA
+#PROGRAMAÇÃO ESTRUTURADA
 ---
-Repositorio com a resolucao dos exercicios de listas e projetos da disciplina.
+Repositório com a resolução dos exercícios de listas e projetos da disciplina.
